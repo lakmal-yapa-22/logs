@@ -23,12 +23,3 @@ This project demonstrates how to implement logging in a Spring Boot application 
 ---
 
 
-
-## 📂 Project Structure
-
-src
-└── main
-└── java
-└── org.example.logs_.controller
-└── LogsController.java
----
